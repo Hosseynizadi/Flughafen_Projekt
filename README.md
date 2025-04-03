@@ -33,3 +33,6 @@ Das Hauptziel dieses Projekts ist die Datenanalyse und Visualisierung:
 📌 Erstellung von interaktiven Diagrammen & Karten
 📌 Darstellung von Passagierzahlen, Flugrouten & Auslastung
 📌 Implementierung von Filterfunktionen & KPIs
+
+
+# <img width="808" alt="Screenshot 2025-04-03 200150" src="https://github.com/user-attachments/assets/dfbb0b0b-70b0-44f8-8981-2de2da63713f" />
